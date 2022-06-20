@@ -29,7 +29,7 @@
 [![image](https://img.shields.io/badge/Telegram-3390ec?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bluesky0209)
 [![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Vx543ke7)
 
-<p align="right">
+<p align="left">
   <a href="https://github.com/wstar0209?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/wstar0209"/></a>
   <a href="https://github.com/wstar0209?tab=followers">
