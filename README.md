@@ -11,12 +11,11 @@
 <img align="left" height="150" src="https://api.poap.xyz/token/569408/image" />
 <img align="left" height="150" src="https://api.poap.xyz/token/1840037/image" />
 <img align="left" height="150" src="https://user-images.githubusercontent.com/37881789/137935654-6b6f71cf-4ee6-436b-be00-8feb14a25368.png" />
+<img align="left" height="150" src="https://api.poap.xyz/token/2208560/image" />
 
 <br /><br /><br /><br /><br /><br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bluesky0209&label=Profile%20views&color=0e75b6&style=flat" alt="bluesky0209" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bluesky0209" alt="bluesky0209" /></a> </p>
 
 
 
