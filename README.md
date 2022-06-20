@@ -2,12 +2,10 @@
   <a href="https://github.com/wstar0209"><img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20developer;Full-Stack%20developer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 <br />
-<a href="https://github.com/bluesky0209/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluesky0209&hide=html,ruby,css,java,objective-c,python,starlark,dockerfile,shell,rust,nix" />
-</a>
-<a href="https://github.com/bluesky0209/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=bluesky0209&show_icons=true&count_private=true" />
-</a>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=wstar0209&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wstar0209&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45.25%">
+</p>
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 <img align="left" height="150" src="https://api.poap.xyz/token/274326/image" />
 <img align="left" height="150" src="https://api.poap.xyz/token/569408/image" />
