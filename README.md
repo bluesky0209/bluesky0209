@@ -1,8 +1,5 @@
 <h1 align="center">Hi, I'm <a href="https://bluesky0209.netlify.app" target="_blank">Blue Sky</a></h1>
 <br />
-<p>
-<img src="https://raw.githubusercontent.com/bluesky0209/bluesky0209/main/bluesky0209.gif" />
-</p>
 
 <a href="https://github.com/bluesky0209/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluesky0209&hide=html,ruby,css,java,objective-c,python,starlark,dockerfile,shell,rust,nix" />
