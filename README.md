@@ -6,7 +6,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=wstar0209&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wstar0209&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45.25%">
 </p>
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br />
 <img align="left" height="150" src="https://api.poap.xyz/token/274326/image" />
 <img align="left" height="150" src="https://api.poap.xyz/token/569408/image" />
 <img align="left" height="150" src="https://api.poap.xyz/token/1840037/image" />
