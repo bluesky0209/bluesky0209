@@ -1,6 +1,7 @@
-<h1 align="center">Hi, I'm <a href="https://bluesky0209.netlify.app" target="_blank">Blue Sky</a></h1>
+<p align="center">
+  <a href="https://github.com/wstar0209"><img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20developer;Web%20and%20mobile%20master;7%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+</p>
 <br />
-
 <a href="https://github.com/bluesky0209/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluesky0209&hide=html,ruby,css,java,objective-c,python,starlark,dockerfile,shell,rust,nix" />
 </a>
