@@ -2,10 +2,7 @@
   <a href="https://github.com/bluesky0209"><img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20developer;Full-Stack%20developer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 <br />
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=bluesky0209&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bluesky0209&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45.25%">
-</p>
+
 <br />
 <img align="left" height="150" src="https://api.poap.xyz/token/274326/image" />
 <img align="left" height="150" src="https://api.poap.xyz/token/569408/image" />
@@ -36,4 +33,7 @@
   <a href="https://github.com/wstar0209">
     <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=wstar0209&style=for-the-badge"/></a>
 </p>
-
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=bluesky0209&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bluesky0209&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45.25%">
+</p>
