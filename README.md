@@ -7,7 +7,7 @@
 <img align="left" height="150" src="https://api.poap.xyz/token/274326/image" />
 <img align="left" height="150" src="https://api.poap.xyz/token/569408/image" />
 <img align="left" height="150" src="https://api.poap.xyz/token/1840037/image" />
-<img align="left" height="150" src="https://user-images.githubusercontent.com/37881789/137935654-6b6f71cf-4ee6-436b-be00-8feb14a25368.png" />
+
 <img align="left" height="150" src="https://api.poap.xyz/token/2208560/image" />
 
 <br /><br /><br /><br /><br /><br />
