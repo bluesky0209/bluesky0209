@@ -2,7 +2,7 @@
   <a href="https://github.com/bluesky0209" ><img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20developer;Full-Stack%20developer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22" align="center"></a>
 </p>
 <br />
-<div style="display:flex; justify-content:center"><a href="https://app.daily.dev/bluesky0209" align="center"><img src="https://api.daily.dev/devcards/cdc638e2d44c4a089964f2e71e22396d.png?r=djx" align="center" width="400" alt="James Michael's Dev Card"/></a>
+<div style="display:flex !important; justify-content:center !important;"><a href="https://app.daily.dev/bluesky0209" align="center"><img src="https://api.daily.dev/devcards/cdc638e2d44c4a089964f2e71e22396d.png?r=djx" align="center" width="400" alt="James Michael's Dev Card"/></a>
 </div>
 
 <br />
