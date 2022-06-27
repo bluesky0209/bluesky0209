@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://github.com/bluesky0209" align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20developer;Full-Stack%20developer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22" align="center"></a>
+  <a href="https://github.com/bluesky0209" ><img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20developer;Full-Stack%20developer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22" align="center"></a>
 </p>
 <br />
-<a href="https://app.daily.dev/bluesky0209"><img src="https://api.daily.dev/devcards/cdc638e2d44c4a089964f2e71e22396d.png?r=djx" width="400" alt="James Michael's Dev Card"/></a>
+<a href="https://app.daily.dev/bluesky0209" align="center"><img src="https://api.daily.dev/devcards/cdc638e2d44c4a089964f2e71e22396d.png?r=djx" align="center" width="400" alt="James Michael's Dev Card"/></a>
 <br />
 <img align="left" height="150" src="https://api.poap.xyz/token/274326/image" />
 <img align="left" height="150" src="https://api.poap.xyz/token/569408/image" />
