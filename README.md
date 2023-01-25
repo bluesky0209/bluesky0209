@@ -2,16 +2,12 @@
   <a href="https://github.com/bluesky0209" ><img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20developer;Full-Stack%20developer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22" align="center"></a>
 </p>
 <br />
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=bluesky0209&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bluesky0209&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45.25%">
-</p>
-<br/>
+
 ## Contact me
 
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:feature0209@gmail.com)
-[![image](https://img.shields.io/badge/Telegram-3390ec?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bluesky0209)
-[![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]((https://discord.com/users/958861457431363644))
+[![image](https://img.shields.io/badge/Telegram-3390ec?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bluesky623)
+[![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/958861457431363644)
 
 <p align="left">
   <a href="https://github.com/bluesky0209?tab=repositories&sort=stargazers">
