@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/bluesky0209" ><img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Sportsbook%20,%20Casino%20developer;Creating%20seamless%20and%20engaging%20betting%20websites&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22" align="center"></a>
+  <a href="https://github.com/bluesky0209" ><img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Sportsbook%20,%20Casino%20developer;Creating%20seamless,engaging%20websites&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22" align="center"></a>
 </p>
 <br />
 
