@@ -4,5 +4,3 @@
 <br />
 
 ## Contact me
-
-[![image](https://img.shields.io/badge/Telegram-3390ec?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bd1203x)
